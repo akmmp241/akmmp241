@@ -17,7 +17,7 @@
 
 <br>
 
-- Specializing in/interested in backend engineering
+- Specializing/interested in Backend Engineering
 - PHP is the language I use the most
 - Love to learn devops
 - Studying MySql Database

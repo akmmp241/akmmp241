@@ -124,7 +124,15 @@
 
 <li>
 <a href="mailto:akmalmp241@gmail.com" target="_blank">
-<img src=" 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+<br>
+
+<li>
+<a href="instagram.com/akm.mp_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li>
 	

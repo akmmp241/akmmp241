@@ -1,5 +1,4 @@
 # 💫About Me :
-🌐 I'm Currently interning at Dinustek,
 <br>
 💻 I'm mastering Laravel,
 <br>
